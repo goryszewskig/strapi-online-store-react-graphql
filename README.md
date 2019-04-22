@@ -1,1 +1,2 @@
-"# strapi-online-store-react-graphql" 
+# strapi-online-store-react-graphql
+
