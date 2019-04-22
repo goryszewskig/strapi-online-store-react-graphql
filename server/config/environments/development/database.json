@@ -1,0 +1,20 @@
+{
+  "defaultConnection": "default",
+  "connections": {
+    "default": {
+      "connector": "strapi-hook-mongoose",
+      "settings": {
+        "client": "mongo",
+        "host": "geopins-9f7ga.mongodb.net",
+        "port": 27017,
+        "database": "server",
+        "username": "ggadmin",
+        "password": "ggadmin123",
+        "srv": true
+      },
+      "options": {
+        "ssl": true
+      }
+    }
+  }
+}
